@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-cardiac-pulse-pressure-variation-ppv-skill",
+  "version": "1.0.0",
+  "description": "Calculates Pulse Pressure Variation (PPV%) and Stroke Volume Variation (SVV%) to predict fluid responsiveness under mechanical ventilation.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "cardiology",
+    "hemodynamics",
+    "ppv",
+    "svv",
+    "fluid-responsiveness",
+    "critical-care",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
